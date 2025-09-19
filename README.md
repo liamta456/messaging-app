@@ -1,4 +1,5 @@
 # messaging-app
 
 ## Goals
-Allow Users to log in and message each other.
+- User registration and login system
+- Real-time messaging functionality between individual users
